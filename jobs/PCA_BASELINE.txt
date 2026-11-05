@@ -1,0 +1,10 @@
+python experiments/pca_baseline.py --cell E2_scale_g --seed0 0 --n 10
+python experiments/pca_baseline.py --cell E4_scale_g --seed0 0 --n 10
+python experiments/pca_baseline.py --cell E4_none_g --seed0 0 --n 10
+python experiments/pca_baseline.py --cell E4_none_t5 --seed0 0 --n 10
+python experiments/pca_baseline.py --cell E4_scale_g_rand --seed0 0 --n 10
+python experiments/pca_baseline.py --cell E2_scale_g --seed0 200 --n 10
+python experiments/pca_baseline.py --cell E4_scale_g --seed0 200 --n 10
+python experiments/pca_baseline.py --cell E4_none_g --seed0 200 --n 10
+python experiments/pca_baseline.py --cell E4_none_t5 --seed0 200 --n 10
+python experiments/pca_baseline.py --cell E4_scale_g_rand --seed0 200 --n 10

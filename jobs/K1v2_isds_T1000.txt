@@ -1,0 +1,10 @@
+python baselines/isds_runner.py --seed 0 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 1 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 2 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 3 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 4 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 5 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 6 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 7 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 8 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez
+python baselines/isds_runner.py --seed 9 --stride 10 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez

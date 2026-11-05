@@ -1,0 +1,75 @@
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode none --innov t5 --graph fixed --enc gru --tag _r18_gru_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 2 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc gru --tag _r18_gru_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc gru --tag _r18_gru_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode none --innov t5 --graph fixed --enc gru --tag _r18_gru_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 2 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc gru --tag _r18_gru_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc gru --tag _r18_gru_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode none --innov t5 --graph fixed --enc gru --tag _r18_gru_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 2 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc gru --tag _r18_gru_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc gru --tag _r18_gru_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode none --innov t5 --graph fixed --enc gru --tag _r18_gru_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 2 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc gru --tag _r18_gru_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc gru --tag _r18_gru_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode none --innov t5 --graph fixed --enc gru --tag _r18_gru_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 2 --varmode scale --innov gauss --graph fixed --enc gru --tag _r18_gru_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc gru --tag _r18_gru_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc gru --tag _r18_gru_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 0 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 0 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 0 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 1 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 1 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 1 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 2 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 2 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 2 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 3 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 3 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 3 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 4 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 4 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 4 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E4_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode none --innov t5 --graph fixed --enc mlp --tag _r18_mlp_E4_none_t5
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 2 --varmode scale --innov gauss --graph fixed --enc mlp --tag _r18_mlp_E2_scale_g
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --enc mlp --tag _r18_mlp_k8D12
+python experiments/evaluate_cpt.py --mode stage_a --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --enc mlp --tag _r18_mlp_noise

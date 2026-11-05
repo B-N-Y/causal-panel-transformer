@@ -1,0 +1,7 @@
+python experiments/b1_delta_estimator_free.py --delta 0 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.05 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.1 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.2 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.4 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.6 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT
+python experiments/b1_delta_estimator_free.py --delta 0.8 --seed0 700 --n 20 --innov gauss --T 6000 --tag _deltaT

@@ -1,0 +1,50 @@
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --T 1000 --tag _k1v2_T1000 --savez k1v2_tdrl_T1000
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 5 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 6 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 7 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 8 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 9 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1v2_noise --savez k1v2_tdrl_noise
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 5 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 6 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 7 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 8 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 9 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1v2_k6 --savez k1v2_tdrl_k6
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 5 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 6 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 7 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 8 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 9 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1v2_k8D12 --savez k1v2_tdrl_k8D12
+python baselines/tdrl_hard_settings.py --seed 0 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 1 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 2 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 3 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 4 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 5 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 6 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 7 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 8 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand
+python baselines/tdrl_hard_settings.py --seed 9 --E 6 --varmode none --innov t5 --graph random --tag _k1v2_t5rand --savez k1v2_tdrl_t5rand

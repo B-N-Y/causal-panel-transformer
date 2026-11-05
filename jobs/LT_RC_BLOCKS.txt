@@ -1,0 +1,10 @@
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 0:10000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 10000:20000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 20000:30000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 30000:40000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 40000:50000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 50000:60000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 60000:70000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 70000:80000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 80000:90000 --out_dir outputs/LT_RC_BLOCKS
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --rows 90000:100000 --out_dir outputs/LT_RC_BLOCKS

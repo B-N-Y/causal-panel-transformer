@@ -1,0 +1,3 @@
+method,seed,E,varmode,innov,graph,MCC,r2_affine,mcc_affine,regime_accuracy,epoch,time,nctrl_commit,stage_b_choice,MCC_stage_b,best_epoch,best_val_mcc
+NCTRL (end of training),5,4,none,t5,fixed,0.6651,0.9193,0.9583,0.2708,1538,7956.8,d2540bb,B2,0.9479,,
+NCTRL (oracle selection),5,4,none,t5,fixed,0.6798,0.9113,0.9543,0.2722,1538,7956.8,d2540bb,B2,0.9347,160.0,0.6826

@@ -1,0 +1,11 @@
+method,seed,E,T,k,D,varmode,bestcase,innov,graph,spurious,obs_noise,kmodel,conf_mode,dim_gS,epochs,bs,selection,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,final_loss,sec,params,tdrl_commit,hp_lr
+iVAE,0,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.6346,0.9337,0.9662,0.8781,0.9331,-4.5096,163.4,73624,655ea52,0.001
+iVAE,1,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.5574,0.9136,0.9554,0.7327,0.7478,-4.3563,168.2,73624,655ea52,0.001
+iVAE,2,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.6996,0.9199,0.9591,0.7279,0.7916,-4.6123,137.8,73624,655ea52,0.001
+iVAE,3,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.6205,0.9694,0.9846,0.9387,0.983,-5.6449,170.0,73624,655ea52,0.001
+iVAE,4,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.6611,0.9445,0.9718,0.6972,0.9031,-3.3712,42.6,73624,655ea52,0.001
+iVAE,5,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.6902,0.9619,0.9808,0.8216,0.9694,-4.377,161.8,73624,655ea52,0.001
+iVAE,6,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.681,0.9611,0.9803,0.8762,0.9587,-4.3339,168.9,73624,655ea52,0.001
+iVAE,7,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.3581,0.994,0.997,0.9951,0.9962,-4.0118,161.5,73624,655ea52,0.001
+iVAE,8,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.4993,0.9758,0.9878,0.8889,0.8171,-3.7444,42.1,73624,655ea52,0.001
+iVAE,9,4,6000,4,12,both,True,t5,fixed,False,0.05,4,ar1,0,200,64,last_epoch,0.5304,0.9494,0.9743,0.7737,0.5288,-2.236,35.4,73624,655ea52,0.001

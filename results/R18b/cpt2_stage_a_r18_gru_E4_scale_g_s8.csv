@@ -1,0 +1,2 @@
+mode,enc,seed,E,varmode,innov,graph,k,D,T,obs_noise,k_white,lags,nl,steps,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,B,rho_min,split_loss,time
+stage_a,gru,8,4,scale,gauss,fixed,4,12,6000,0.05,0,1,0,20000,0.9564,0.9805,0.9902,0.9824,0.9458,0.9824,0.9783,-22.732373343573677,290.6

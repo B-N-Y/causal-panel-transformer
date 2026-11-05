@@ -1,0 +1,7 @@
+# Versions used to prepare and test this release; the experiments ran on a GPU cluster with a comparable environment.
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.3
+torch>=2.1
+tqdm>=4.65

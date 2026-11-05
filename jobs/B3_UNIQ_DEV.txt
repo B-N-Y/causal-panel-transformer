@@ -1,0 +1,20 @@
+python experiments/b3_uniqueness_development.py --seed 600 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 601 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 602 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 603 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 604 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 605 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 606 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 607 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 608 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --seed 609 --tag _b3e2e_E4_gauss
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 650 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 651 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 652 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 653 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 654 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 655 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 656 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 657 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 658 --tag _b3bs
+python experiments/b3_uniqueness_development.py --generator bs --E 2 --seed 659 --tag _b3bs

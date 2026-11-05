@@ -1,0 +1,60 @@
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 200 --tag _k4v2_lr0.00025_ep200
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 400 --tag _k4v2_lr0.00025_ep400
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 120000 --tag _k4v2_lr0.00025_g120k
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 200000 --hours 4.6 --tag _k4v2_lr0.00025_g200k
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 200 --tag _k4v2_lr0.0005_ep200
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 400 --tag _k4v2_lr0.0005_ep400
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 120000 --tag _k4v2_lr0.0005_g120k
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 200000 --hours 4.6 --tag _k4v2_lr0.0005_g200k
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 200 --tag _k4v2_lr0.001_ep200
+python baselines/tdrl_hard_settings.py --seed 0 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 400 --tag _k4v2_lr0.001_ep400
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 120000 --tag _k4v2_lr0.001_g120k
+python baselines/nctrl_on_our_generator.py --seed 0 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 200000 --hours 4.6 --tag _k4v2_lr0.001_g200k
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 200 --tag _k4v2_lr0.00025_ep200
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 400 --tag _k4v2_lr0.00025_ep400
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 120000 --tag _k4v2_lr0.00025_g120k
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 200000 --hours 4.6 --tag _k4v2_lr0.00025_g200k
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 200 --tag _k4v2_lr0.0005_ep200
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 400 --tag _k4v2_lr0.0005_ep400
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 120000 --tag _k4v2_lr0.0005_g120k
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 200000 --hours 4.6 --tag _k4v2_lr0.0005_g200k
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 200 --tag _k4v2_lr0.001_ep200
+python baselines/tdrl_hard_settings.py --seed 1 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 400 --tag _k4v2_lr0.001_ep400
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 120000 --tag _k4v2_lr0.001_g120k
+python baselines/nctrl_on_our_generator.py --seed 1 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 200000 --hours 4.6 --tag _k4v2_lr0.001_g200k
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 200 --tag _k4v2_lr0.00025_ep200
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 400 --tag _k4v2_lr0.00025_ep400
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 120000 --tag _k4v2_lr0.00025_g120k
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 200000 --hours 4.6 --tag _k4v2_lr0.00025_g200k
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 200 --tag _k4v2_lr0.0005_ep200
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 400 --tag _k4v2_lr0.0005_ep400
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 120000 --tag _k4v2_lr0.0005_g120k
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 200000 --hours 4.6 --tag _k4v2_lr0.0005_g200k
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 200 --tag _k4v2_lr0.001_ep200
+python baselines/tdrl_hard_settings.py --seed 2 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 400 --tag _k4v2_lr0.001_ep400
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 120000 --tag _k4v2_lr0.001_g120k
+python baselines/nctrl_on_our_generator.py --seed 2 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 200000 --hours 4.6 --tag _k4v2_lr0.001_g200k
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 200 --tag _k4v2_lr0.00025_ep200
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 400 --tag _k4v2_lr0.00025_ep400
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 120000 --tag _k4v2_lr0.00025_g120k
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 200000 --hours 4.6 --tag _k4v2_lr0.00025_g200k
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 200 --tag _k4v2_lr0.0005_ep200
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 400 --tag _k4v2_lr0.0005_ep400
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 120000 --tag _k4v2_lr0.0005_g120k
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 200000 --hours 4.6 --tag _k4v2_lr0.0005_g200k
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 200 --tag _k4v2_lr0.001_ep200
+python baselines/tdrl_hard_settings.py --seed 3 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 400 --tag _k4v2_lr0.001_ep400
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 120000 --tag _k4v2_lr0.001_g120k
+python baselines/nctrl_on_our_generator.py --seed 3 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 200000 --hours 4.6 --tag _k4v2_lr0.001_g200k
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 200 --tag _k4v2_lr0.00025_ep200
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.00025 --epochs 400 --tag _k4v2_lr0.00025_ep400
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 120000 --tag _k4v2_lr0.00025_g120k
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.00025 --updates 200000 --hours 4.6 --tag _k4v2_lr0.00025_g200k
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 200 --tag _k4v2_lr0.0005_ep200
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.0005 --epochs 400 --tag _k4v2_lr0.0005_ep400
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 120000 --tag _k4v2_lr0.0005_g120k
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.0005 --updates 200000 --hours 4.6 --tag _k4v2_lr0.0005_g200k
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 200 --tag _k4v2_lr0.001_ep200
+python baselines/tdrl_hard_settings.py --seed 4 --E 4 --varmode scale --innov gauss --graph fixed --lr 0.001 --epochs 400 --tag _k4v2_lr0.001_ep400
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 120000 --tag _k4v2_lr0.001_g120k
+python baselines/nctrl_on_our_generator.py --seed 4 --E 4 --varmode scale --innov gauss --lr 0.001 --updates 200000 --hours 4.6 --tag _k4v2_lr0.001_g200k

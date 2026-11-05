@@ -1,0 +1,3 @@
+method,seed,MCC,r2_affine,mcc_affine,regime_accuracy,epoch,time,nctrl_commit,best_epoch,best_val_mcc
+NCTRL (end of training),9,0.6218,0.9974,0.9987,0.8081,200,12511.6,d2540bb,,
+"NCTRL (authors' selection, oracle)",9,0.6828,0.9933,0.9967,0.6723,200,12511.6,d2540bb,62.0,0.7167

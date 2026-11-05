@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+third_party/
+_staging_orig/
+_hazirlik/
+logs/
+data/

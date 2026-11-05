@@ -1,0 +1,2 @@
+method,seed,epochs,steps,mech_lags,mech_nl,holdout,split_loss,generator,NClass,per_class,latent,lags,MCC,r2_affine,mcc_affine,sec,params,ckpt,budget_hours,n_parts,epochs_done,completed
+TDRL,6,50,,1,0,0.0,,tdrl_pnl_change,20,7500,8,2,0.7593,0.9623,0.981,33304.0,519624,True,3.6,4,50,True
