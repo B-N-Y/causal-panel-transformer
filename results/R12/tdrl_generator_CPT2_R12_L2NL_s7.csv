@@ -1,0 +1,2 @@
+method,seed,epochs,steps,mech_lags,mech_nl,generator,NClass,per_class,latent,lags,MCC,r2_affine,mcc_affine,sec,params
+CPT2,7,,20000,2,64,tdrl_pnl_change,20,7500,8,2,0.6631,0.9549,0.9772,663.6,345641

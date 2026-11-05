@@ -1,0 +1,2 @@
+mode,seed,E,varmode,innov,graph,k,k_white,lags,nl,steps,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,B,rho_min,split_loss,time
+stage_a,6,4,none,t5,fixed,4,0,2,64,20000,0.7304,0.983,0.9915,0.9497,0.9911,0.9911,0.9773,-19.153841230604385,514.3

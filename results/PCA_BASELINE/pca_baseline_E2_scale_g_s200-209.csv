@@ -1,0 +1,11 @@
+method,cell,seed,E,varmode,innov,graph,k,D,T,obs_noise,spurious,explained_variance,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,lever_design,MCC_design,solved,rho_min,time
+PCA (whitened),E2_scale_g,200,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9304,0.6368,0.9223,0.9602,0.9362,0.8981,JD,0.9362,True,0.8447,0.88
+PCA (whitened),E2_scale_g,201,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9377,0.62,0.8925,0.9442,0.9183,0.7439,JD,0.9183,True,0.7126,0.07
+PCA (whitened),E2_scale_g,202,2,scale,gauss,fixed,4,12,6000,0.05,False,0.949,0.719,0.9142,0.956,0.924,0.7857,JD,0.924,True,0.7932,0.47
+PCA (whitened),E2_scale_g,203,2,scale,gauss,fixed,4,12,6000,0.05,False,0.954,0.7357,0.9213,0.9597,0.929,0.7001,JD,0.929,True,0.8389,0.07
+PCA (whitened),E2_scale_g,204,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9166,0.5463,0.7934,0.8764,0.7205,0.7096,JD,0.7205,False,0.0926,0.06
+PCA (whitened),E2_scale_g,205,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9201,0.7149,0.9402,0.9695,0.9259,0.8158,JD,0.9259,True,0.8454,0.06
+PCA (whitened),E2_scale_g,206,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9272,0.658,0.8363,0.9123,0.745,0.6732,JD,0.745,False,0.7104,0.06
+PCA (whitened),E2_scale_g,207,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9268,0.6934,0.8966,0.9466,0.6872,0.7079,JD,0.6872,False,0.7566,0.06
+PCA (whitened),E2_scale_g,208,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9134,0.6529,0.9197,0.9586,0.9149,0.9032,JD,0.9149,True,0.8258,0.06
+PCA (whitened),E2_scale_g,209,2,scale,gauss,fixed,4,12,6000,0.05,False,0.9475,0.6351,0.8421,0.9164,0.8281,0.7444,JD,0.8281,False,0.7051,0.06

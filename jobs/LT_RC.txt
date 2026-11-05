@@ -1,0 +1,1 @@
+python experiments/real_data_citris.py --images data/light_tunnel/citris_1_x64.npy --truth data/light_tunnel/citris_1_truth.csv --encoder RC --k_fixed 5 --seed 0 --out_dir outputs/LT_RC

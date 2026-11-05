@@ -1,0 +1,10 @@
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 0 --epochs 18 --tag _R7_s0
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 1 --epochs 18 --tag _R7_s1
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 2 --epochs 18 --tag _R7_s2
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 3 --epochs 18 --tag _R7_s3
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 4 --epochs 18 --tag _R7_s4
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 5 --epochs 18 --tag _R7_s5
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 6 --epochs 18 --tag _R7_s6
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 7 --epochs 18 --tag _R7_s7
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 8 --epochs 18 --tag _R7_s8
+python experiments/tdrl_generator.py --method TDRL --seeds 1 --seed0 9 --epochs 18 --tag _R7_s9

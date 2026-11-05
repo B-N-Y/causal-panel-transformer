@@ -1,0 +1,170 @@
+python experiments/section86.py --mode panel --seed 900 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 900 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 900 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 900 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 900 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 900 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 900 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 900 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 900 --T 500
+python experiments/section86.py --mode sample_size --seed 900 --T 1000
+python experiments/section86.py --mode sample_size --seed 900 --T 2000
+python experiments/section86.py --mode sample_size --seed 900 --T 4000
+python experiments/section86.py --mode sample_size --seed 900 --T 6000
+python experiments/section86.py --mode regime_noise --seed 900 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 900 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 900 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 900 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 901 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 901 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 901 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 901 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 901 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 901 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 901 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 901 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 901 --T 500
+python experiments/section86.py --mode sample_size --seed 901 --T 1000
+python experiments/section86.py --mode sample_size --seed 901 --T 2000
+python experiments/section86.py --mode sample_size --seed 901 --T 4000
+python experiments/section86.py --mode sample_size --seed 901 --T 6000
+python experiments/section86.py --mode regime_noise --seed 901 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 901 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 901 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 901 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 902 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 902 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 902 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 902 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 902 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 902 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 902 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 902 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 902 --T 500
+python experiments/section86.py --mode sample_size --seed 902 --T 1000
+python experiments/section86.py --mode sample_size --seed 902 --T 2000
+python experiments/section86.py --mode sample_size --seed 902 --T 4000
+python experiments/section86.py --mode sample_size --seed 902 --T 6000
+python experiments/section86.py --mode regime_noise --seed 902 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 902 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 902 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 902 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 903 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 903 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 903 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 903 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 903 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 903 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 903 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 903 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 903 --T 500
+python experiments/section86.py --mode sample_size --seed 903 --T 1000
+python experiments/section86.py --mode sample_size --seed 903 --T 2000
+python experiments/section86.py --mode sample_size --seed 903 --T 4000
+python experiments/section86.py --mode sample_size --seed 903 --T 6000
+python experiments/section86.py --mode regime_noise --seed 903 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 903 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 903 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 903 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 904 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 904 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 904 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 904 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 904 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 904 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 904 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 904 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 904 --T 500
+python experiments/section86.py --mode sample_size --seed 904 --T 1000
+python experiments/section86.py --mode sample_size --seed 904 --T 2000
+python experiments/section86.py --mode sample_size --seed 904 --T 4000
+python experiments/section86.py --mode sample_size --seed 904 --T 6000
+python experiments/section86.py --mode regime_noise --seed 904 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 904 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 904 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 904 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 905 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 905 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 905 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 905 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 905 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 905 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 905 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 905 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 905 --T 500
+python experiments/section86.py --mode sample_size --seed 905 --T 1000
+python experiments/section86.py --mode sample_size --seed 905 --T 2000
+python experiments/section86.py --mode sample_size --seed 905 --T 4000
+python experiments/section86.py --mode sample_size --seed 905 --T 6000
+python experiments/section86.py --mode regime_noise --seed 905 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 905 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 905 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 905 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 906 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 906 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 906 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 906 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 906 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 906 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 906 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 906 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 906 --T 500
+python experiments/section86.py --mode sample_size --seed 906 --T 1000
+python experiments/section86.py --mode sample_size --seed 906 --T 2000
+python experiments/section86.py --mode sample_size --seed 906 --T 4000
+python experiments/section86.py --mode sample_size --seed 906 --T 6000
+python experiments/section86.py --mode regime_noise --seed 906 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 906 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 906 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 906 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 907 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 907 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 907 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 907 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 907 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 907 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 907 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 907 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 907 --T 500
+python experiments/section86.py --mode sample_size --seed 907 --T 1000
+python experiments/section86.py --mode sample_size --seed 907 --T 2000
+python experiments/section86.py --mode sample_size --seed 907 --T 4000
+python experiments/section86.py --mode sample_size --seed 907 --T 6000
+python experiments/section86.py --mode regime_noise --seed 907 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 907 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 907 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 907 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 908 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 908 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 908 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 908 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 908 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 908 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 908 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 908 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 908 --T 500
+python experiments/section86.py --mode sample_size --seed 908 --T 1000
+python experiments/section86.py --mode sample_size --seed 908 --T 2000
+python experiments/section86.py --mode sample_size --seed 908 --T 4000
+python experiments/section86.py --mode sample_size --seed 908 --T 6000
+python experiments/section86.py --mode regime_noise --seed 908 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 908 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 908 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 908 --noise shift --level 20
+python experiments/section86.py --mode panel --seed 909 --N 10 --T_unit 200
+python experiments/section86.py --mode panel --seed 909 --N 10 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 909 --N 10 --T_unit 500
+python experiments/section86.py --mode panel --seed 909 --N 10 --T_unit 500 --single
+python experiments/section86.py --mode panel --seed 909 --N 50 --T_unit 200
+python experiments/section86.py --mode panel --seed 909 --N 50 --T_unit 200 --single
+python experiments/section86.py --mode panel --seed 909 --N 50 --T_unit 500
+python experiments/section86.py --mode panel --seed 909 --N 50 --T_unit 500 --single
+python experiments/section86.py --mode sample_size --seed 909 --T 500
+python experiments/section86.py --mode sample_size --seed 909 --T 1000
+python experiments/section86.py --mode sample_size --seed 909 --T 2000
+python experiments/section86.py --mode sample_size --seed 909 --T 4000
+python experiments/section86.py --mode sample_size --seed 909 --T 6000
+python experiments/section86.py --mode regime_noise --seed 909 --noise flip --level 0.05
+python experiments/section86.py --mode regime_noise --seed 909 --noise flip --level 0.1
+python experiments/section86.py --mode regime_noise --seed 909 --noise shift --level 5
+python experiments/section86.py --mode regime_noise --seed 909 --noise shift --level 20

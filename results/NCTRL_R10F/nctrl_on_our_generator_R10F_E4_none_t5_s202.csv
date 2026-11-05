@@ -1,0 +1,3 @@
+method,seed,E,varmode,innov,graph,k,D,T,obs_noise,lr,mcc_jd,mcc_ica,lever_design,MCC_design,B,MCC,r2_affine,mcc_affine,regime_accuracy,epoch,time,nctrl_commit,epochs_done,epochs_planned,stopped_by_budget,n_val,updates_done,version,stage_b_choice,MCC_stage_b,best_epoch,best_val_mcc
+NCTRL (end of training),202,4,none,t5,fixed,4,12,6000,0.05,0.0005,0.6871,0.7366,ICA,0.7366,0.7366,0.6088,0.812,0.8991,0.2674,1538,7936.3,d2540bb,1538,1538,False,1024,119964,r22v2,B2,0.7406,,
+NCTRL (oracle selection),202,4,none,t5,fixed,4,12,6000,0.05,0.0005,0.5793,0.7426,ICA,0.7426,0.7426,0.6222,0.8019,0.8919,0.269,1538,7936.3,d2540bb,1538,1538,False,1024,119964,r22v2,B2,0.7417,60.0,0.6258

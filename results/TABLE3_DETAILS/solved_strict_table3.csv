@@ -1,0 +1,12 @@
+row,cpt,comp,cpt_strict,comp_strict,p_strict
+main cells vs TDRL,40,39,39,38,1.0
+main cells vs iVAE,20,19,20,19,1.0
+main cells vs iSDS,30,27,29,26,0.25
+main cells vs NCTRL,30,17,29,10,3.814697265625e-06
+fresh seeds vs TDRL,19,18,19,18,1.0
+fresh seeds vs iSDS,19,20,19,20,1.0
+fresh seeds vs NCTRL,18,13,18,11,0.015625
+fresh seeds vs PCA,19,11,19,4,6.103515625e-05
+hard settings vs TDRL,41,27,40,24,3.0517578125e-05
+hard settings vs iSDS,41,26,40,26,0.0001220703125
+hard settings vs NCTRL,41,18,40,15,5.960464477539063e-08

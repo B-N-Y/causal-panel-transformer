@@ -1,0 +1,40 @@
+python baselines/isds_runner.py --seed 0 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 1 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 2 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 3 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 4 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 5 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 6 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 7 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 8 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 9 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph fixed --obs_noise 0.3 --tag _k1_noise
+python baselines/isds_runner.py --seed 0 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 1 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 2 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 3 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 4 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 5 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 6 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 7 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 8 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 9 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 6 --D 12 --tag _k1_k6
+python baselines/isds_runner.py --seed 0 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 1 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 2 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 3 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 4 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 5 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 6 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 7 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 8 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 9 --stride 10 --epochs 800 --E 4 --varmode scale --innov gauss --graph random --k 8 --D 12 --tag _k1_k8D12
+python baselines/isds_runner.py --seed 0 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 1 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 2 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 3 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 4 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 5 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 6 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 7 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 8 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand
+python baselines/isds_runner.py --seed 9 --stride 10 --epochs 800 --E 6 --varmode none --innov t5 --graph random --tag _k1_t5rand

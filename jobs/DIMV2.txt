@@ -1,0 +1,60 @@
+python experiments/dimension_selection.py --seed 140 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 141 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 142 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 143 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 144 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 145 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 146 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 147 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 148 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 149 --E 4 --varmode scale --innov gauss --tag _E4_scale_spurious
+python experiments/dimension_selection.py --seed 140 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 141 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 142 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 143 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 144 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 145 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 146 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 147 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 148 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 149 --E 4 --varmode none --innov t5 --tag _E4_t5_spurious
+python experiments/dimension_selection.py --seed 140 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 141 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 142 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 143 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 144 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 145 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 146 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 147 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 148 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 149 --E 4 --varmode none --innov gauss --nospurious --tag _E4_no_lever
+python experiments/dimension_selection.py --seed 140 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 141 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 142 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 143 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 144 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 145 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 146 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 147 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 148 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 149 --E 4 --varmode scale --innov gauss --nospurious --tag _E4_scale
+python experiments/dimension_selection.py --seed 140 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 141 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 142 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 143 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 144 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 145 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 146 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 147 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 148 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 149 --E 6 --varmode scale --innov gauss --nospurious --graph random --tag _E6_scale_rand
+python experiments/dimension_selection.py --seed 140 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 141 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 142 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 143 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 144 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 145 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 146 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 147 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 148 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale
+python experiments/dimension_selection.py --seed 149 --E 2 --varmode scale --innov gauss --nospurious --tag _E2_scale

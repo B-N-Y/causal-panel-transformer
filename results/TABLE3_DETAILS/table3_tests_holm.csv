@@ -1,0 +1,26 @@
+row,column,test,p,p_holm
+main cells vs TDRL,Stage A,sign,1.7763568394002505e-15,4.440892098500626e-14
+main cells vs TDRL,end to end,McNemar,1.0,1.0
+main cells vs iVAE,Stage A,sign,1.9073486328125e-06,2.6702880859375e-05
+main cells vs iVAE,end to end,McNemar,1.0,1.0
+main cells vs iSDS,Stage A,sign,1.862645149230957e-09,3.91155481338501e-08
+main cells vs iSDS,end to end,McNemar,0.25,1.0
+main cells vs NCTRL,Stage A,sign,1.862645149230957e-09,3.91155481338501e-08
+main cells vs NCTRL,end to end,McNemar,0.000244140625,0.002685546875
+fresh seeds vs TDRL,Stage A,sign,5.774199962615967e-08,1.039355993270874e-06
+fresh seeds vs TDRL,end to end,McNemar,1.0,1.0
+fresh seeds vs iSDS,Stage A,sign,5.774199962615967e-08,1.039355993270874e-06
+fresh seeds vs iSDS,end to end,McNemar,1.0,1.0
+fresh seeds vs NCTRL,Stage A,sign,1.1175870895385742e-07,1.7881393432617188e-06
+fresh seeds vs NCTRL,end to end,McNemar,0.125,0.75
+fresh seeds vs PCA,Stage A,sign,1.862645149230957e-09,3.91155481338501e-08
+fresh seeds vs PCA,end to end,McNemar,0.0078125,0.0546875
+hard settings vs TDRL,Stage A,sign,1.7763568394002505e-15,4.440892098500626e-14
+hard settings vs TDRL,end to end,McNemar,0.0001220703125,0.00146484375
+hard settings vs iSDS,Stage A,sign,1.7763568394002505e-15,4.440892098500626e-14
+hard settings vs iSDS,end to end,McNemar,6.103515625e-05,0.00079345703125
+hard settings vs NCTRL,Stage A,sign,1.7763568394002505e-15,4.440892098500626e-14
+hard settings vs NCTRL,end to end,McNemar,2.384185791015625e-07,3.5762786865234375e-06
+"TDRL generator, linear prior",Stage A,Wilcoxon,0.001953125,0.01953125
+"TDRL generator, selection",Stage A,Wilcoxon,0.005859375,0.046875
+NCTRL generator,Stage A,Wilcoxon,0.001953125,0.01953125

@@ -1,0 +1,10 @@
+python baselines/nctrl_on_nctrl_generator.py --seed 0 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 1 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 2 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 3 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 4 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 5 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 6 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 7 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 8 --hours 4.5
+python baselines/nctrl_on_nctrl_generator.py --seed 9 --hours 4.5

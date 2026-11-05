@@ -1,0 +1,2 @@
+method,seed,k,D,T,obs_noise,stride,n_windows,updates,E,varmode,innov,graph,epochs,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,B,regime_accuracy,time,isds_commit,T_per_unit,MCC_resolved
+iSDS,8,4,12,6000,0.05,10,581,9600,6,none,t5,random,800,0.6931015695533325,0.9602882511745323,0.9798411420343647,0.8519312263787006,0.9764169791418564,0.9764169791418564,0.239,1117.7,b6c11a5,0,

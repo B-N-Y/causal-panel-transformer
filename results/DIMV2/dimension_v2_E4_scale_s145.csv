@@ -1,0 +1,2 @@
+seed,E,varmode,innov,spurious,graph,k_true,k_v2,k_elbow,v2_reproducible,v2_canonical,v2_r2
+145,4,scale,gauss,False,fixed,4,4,4,4,"[0.999, 0.997, 0.995, 0.993, 0.856, 0.625, 0.189, 0.082]","[0.631, 0.284, 0.191, 0.173]"

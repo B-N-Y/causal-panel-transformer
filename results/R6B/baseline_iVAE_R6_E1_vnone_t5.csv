@@ -1,0 +1,11 @@
+method,seed,E,T,k,D,varmode,bestcase,innov,graph,spurious,obs_noise,kmodel,conf_mode,dim_gS,epochs,bs,selection,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,final_loss,sec,params,tdrl_commit,hp_lr
+iVAE,0,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6908,0.9749,0.9873,,0.9845,-5.4738,158.9,73624,655ea52,0.001
+iVAE,1,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6949,0.9216,0.9596,,0.9522,-6.5272,142.5,73624,655ea52,0.001
+iVAE,2,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6978,0.9699,0.9848,,0.9816,-5.9973,141.6,73624,655ea52,0.001
+iVAE,3,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6407,0.9785,0.9892,,0.9875,-5.6889,165.6,73624,655ea52,0.001
+iVAE,4,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6779,0.969,0.9844,,0.9794,-6.1978,131.7,73624,655ea52,0.001
+iVAE,5,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6353,0.9673,0.9835,,0.9797,-5.5865,161.7,73624,655ea52,0.001
+iVAE,6,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.7129,0.9369,0.9678,,0.9658,-7.0218,142.2,73624,655ea52,0.001
+iVAE,7,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6509,0.9616,0.9806,,0.9776,-7.0509,156.1,73624,655ea52,0.001
+iVAE,8,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6975,0.9716,0.9857,,0.985,-6.0335,153.0,73624,655ea52,0.001
+iVAE,9,1,6000,4,12,none,True,t5,fixed,False,0.05,4,ar1,1,200,64,last_epoch,0.6213,0.9631,0.9814,,0.9792,-6.2713,144.3,73624,655ea52,0.001

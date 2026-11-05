@@ -1,0 +1,2 @@
+mode,seed,E,k,varmode,innov,N,T_unit,T_total,single,noise,level,share_mislabeled,steps,MCC,r2_affine,mcc_affine,mcc_b1,solved_b1,selection,certificate,stability_B1,stability_B2,reported,mcc_resolved,time,split_loss
+sample_size,909,4,4,scale,gauss,1,500,500,False,none,0.0,0.0,20000,0.7875153914963112,0.9301835835932386,0.9643399509773335,0.904250159292747,True,B1,NOT_IDENTIFIABLE,0.8830362213493158,0.8204446501891204,False,0.904250159292747,499.5864918231964,

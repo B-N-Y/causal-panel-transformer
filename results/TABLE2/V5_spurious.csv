@@ -1,0 +1,11 @@
+test,seed,copy,condition_number,rho_min,mcc6,ac1_min2,ac1_top4,spurious_correct,T,kappa,noise,note
+V5_spurious,0,bounded,4.9999999999999964,0.9954236172880577,0.9960963997453726,0.019334816488661043,0.5976247008886378,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,1,bounded,5.000000000000003,0.9951643166614594,0.9970212487597249,0.020398547698242755,0.6453951214467943,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,2,bounded,5.000000000000005,0.9950753938789421,0.9963012839188194,0.013547499855025345,0.6468153731095819,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,3,bounded,5.000000000000002,0.9963755591872521,0.9975289885919523,0.01752179394204456,0.6643125619507285,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,4,bounded,5.000000000000004,0.9959537205644391,0.9966318579136265,0.01787183010466328,0.5416203831564439,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,5,bounded,5.0000000000000036,0.9952970558632889,0.9973066591758589,0.023646481421730346,0.6025042899830031,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,6,bounded,4.9999999999999964,0.9951113088763515,0.9971731423397013,0.0063327306018663675,0.5852823278584142,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,7,bounded,4.999999999999998,0.9949419213150206,0.9968870899478249,0.012618121645390983,0.5299054290406587,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,8,bounded,5.000000000000002,0.9936503637637305,0.9967472098900623,0.034551812778958385,0.5859689459578118,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case
+V5_spurious,9,bounded,4.999999999999999,0.9961337806670238,0.9966426550716596,0.028953188872971967,0.577859221402167,True,4000,5.0,0.05,non-Gaussian (t5) iid component; not a direct test of the Gaussian case

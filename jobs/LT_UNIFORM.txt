@@ -1,0 +1,1 @@
+python experiments/citris_uniform_eval.py data/lt_crl_benchmark_v1.zip data/light_tunnel/citris_1_x64.npy outputs/LT_UNIFORM

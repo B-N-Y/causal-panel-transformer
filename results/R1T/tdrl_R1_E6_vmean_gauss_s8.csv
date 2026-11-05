@@ -1,0 +1,2 @@
+method,seed,E,T,k,D,varmode,bestcase,innov,graph,spurious,obs_noise,kmodel,conf_mode,dim_gS,tdrl_rank_ok,min_det_A,epochs,bs,lr,beta,gamma,hidden,embed,selection,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,active_units,au_var,final_loss,sec,params,oracle_ep,oracle_MCC,oracle_r2_affine,oracle_mcc_affine,oracle_mcc_jd,oracle_mcc_ica,tdrl_commit
+TDRL,8,6,6000,4,12,mean,True,gauss,fixed,False,0.05,4,ar1,0,False,0.0269,200,64,0.0005,0.002,0.02,128,2,last_epoch,0.611,0.9811,0.9905,0.8026,0.7865,4,3.93;0.837;0.485;0.275,0.2642,2263.8,305572,50,0.7227,0.9735,0.9866,0.7961,0.8585,655ea52

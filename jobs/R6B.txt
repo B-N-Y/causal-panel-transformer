@@ -1,0 +1,5 @@
+python baselines/ivae_runner.py --seeds 10 --epochs 200 --methods iVAE --E 4 --varmode scale --innov gauss --nospurious --tag _R6_E4_vscale_gauss --savez R6_E4_vscale_gauss
+python baselines/ivae_runner.py --seeds 10 --epochs 200 --methods iVAE --E 4 --varmode none --innov t5 --nospurious --tag _R6_E4_vnone_t5 --savez R6_E4_vnone_t5
+python baselines/ivae_runner.py --seeds 10 --epochs 200 --methods iVAE --E 4 --varmode both --innov t5 --nospurious --tag _R6_E4_vboth_t5 --savez R6_E4_vboth_t5
+python baselines/ivae_runner.py --seeds 10 --epochs 200 --methods iVAE --E 1 --varmode none --innov t5 --nospurious --tag _R6_E1_vnone_t5 --savez R6_E1_vnone_t5
+python baselines/ivae_runner.py --seeds 10 --epochs 200 --methods iVAE --E 6 --varmode scale --innov gauss --nospurious --tag _R6_E6_vscale_gauss --savez R6_E6_vscale_gauss

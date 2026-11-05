@@ -1,0 +1,2 @@
+method,seed,epochs,generator,NClass,per_class,latent,lags,MCC,r2_affine,mcc_affine,sec,params
+TDRL,8,18,tdrl_pnl_change,20,7500,8,2,0.7721,0.9379,0.9684,11212.9,519624

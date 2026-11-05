@@ -1,0 +1,2 @@
+mode,seed,E,varmode,innov,graph,k,D,T,obs_noise,k_white,lags,nl,steps,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,B,rho_min,split_loss,time,iVAE_MCC,iVAE_r2_affine,iVAE_mcc_affine,iVAE_mcc_jd,iVAE_mcc_ica,iVAE_B,iVAE_rho_min
+stage_a,9,4,scale,gauss,fixed,4,12,1000,0.05,0,1,0,20000,0.973,0.9832,0.9916,0.9691,0.8996,0.9691,0.9823,-17.31839370727539,500.9,0.8267,0.9596,0.9795,0.9557,0.8702,0.9557,0.9622

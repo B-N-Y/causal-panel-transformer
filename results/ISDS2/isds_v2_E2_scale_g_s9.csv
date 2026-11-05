@@ -1,0 +1,2 @@
+method,seed,stride,n_windows,updates,E,varmode,innov,graph,epochs,MCC,r2_affine,mcc_affine,mcc_jd,mcc_ica,B,regime_accuracy,time,isds_commit
+iSDS,9,10,581,9600,2,scale,gauss,fixed,800,0.875045812276464,0.9725845446512693,0.9861897398949455,0.971269592232906,0.8074912433423374,0.971269592232906,0.9988333333333334,2051.3,b6c11a5
